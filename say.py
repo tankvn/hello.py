@@ -3,7 +3,7 @@ engine = pyttsx3.init()
 
 voices = engine.getProperty('voices')  # getting details of current voice
 #engine.setProperty('voice', voices[0].id)  # changing index, changes voices. 0 for male
-engine.setProperty('voice', voices[1].id)  # changing index, changes voices. 1 for female
+engine.setProperty('voice', voices[2].id)  # changing index, changes voices. 1 for female
 engine.say('The quick brown fox jumped over the lazy dog.')
 
 '''
