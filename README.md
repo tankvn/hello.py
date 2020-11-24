@@ -7,7 +7,7 @@
 
 ### Installation
 
-```
+```python
 pip install pyttsx3
 
 # pip uninstall pyttsx3
@@ -27,3 +27,16 @@ pip install pyttsx3
 
 ## speech.py
 
+``` python
+pip install speechrecognition
+
+pip install SpeechRecognition==2.1.3
+```
+
+```
+Collecting speechrecognition
+  Downloading SpeechRecognition-3.8.1-py2.py3-none-any.whl (32.8 MB)
+     |████████████████████████████████| 32.8 MB 1.3 MB/s
+Installing collected packages: speechrecognition
+Successfully installed speechrecognition-3.8.1
+```
