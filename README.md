@@ -42,4 +42,9 @@ Successfully installed speechrecognition-3.8.1
 ```
 
 ## Setup
-Install Python OCC: conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
+Install Python OCC:
+``` python
+conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
+
+conda install -c conda-forge pythonocc-core=7.4.1
+```
