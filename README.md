@@ -40,3 +40,6 @@ Collecting speechrecognition
 Installing collected packages: speechrecognition
 Successfully installed speechrecognition-3.8.1
 ```
+
+## Setup
+Install Python OCC: conda install -c https://conda.anaconda.org/dlr-sc pythonocc-core
