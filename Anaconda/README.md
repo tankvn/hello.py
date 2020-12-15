@@ -17,9 +17,15 @@ Anaconda là nền tảng mã nguồn mở về Khoa học dữ liệu trên Pyt
 * Anaconda hiện nay đã có hơn 11 triệu người dùng và hơn 1500 packages khoa học dữ liệu dành cho Windows, Linux và MacOS.
 
 
-# Web
+# Python Web
 
 ## Django & Flask
+
+### Book
+
+Django Web Development with Python (2016).pdf  
+Django - Web Development with Python
+
 
 ### Video
 
@@ -28,9 +34,29 @@ Create a web application with python + Django + PostgreSQL
 Django for Beginners - Build Web Application With Python!
 
 Lynda - Up and Running with Python and Django
+Lynda - Up and Running with Python and Django with Caleb Smith
+
+Udemy - Build a Python REST API with the Django Rest Framework
+
+Build a User Authentication Web App With Python and Django
+
+Udemy - Web Development with Bootstrap, Python and Django  
+Web Development with Bootstrap, Python & Django
+
+Python and Django Full Stack Web Developer Bootcamp
+
+Udemy- Python eCommerce Build a Django eCommerce Web Application
 
 
-### Book
+Fullstack Flask and Python Bootcamp With Real Life Projects
 
-Django Web Development with Python (2016).pdf  
-Django - Web Development with Python
+
+### Coming soon
+
+Udemy - Build OLX Clone With Python & Django
+
+Build a Crypto Currency News Site With Python and Django
+
+Building Movies Site With Python & Django – IMDB Clone
+
+Python Webprogramming Environment for Windows (Python,Django,MySQL etc)
