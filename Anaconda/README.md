@@ -15,3 +15,22 @@ Anaconda là nền tảng mã nguồn mở về Khoa học dữ liệu trên Pyt
 * Anaconda giúp đơn giản hóa việc cài đặt, quản lý và triển khai packages (numpy, scipy, tensorflow, …).
 * Anaconda phục vụ cho nhiều mục địch, đặc biệt trong Data Science (Khoa học dữ liệu), Machine learnig (Máy học), Big Data (Dữ liệu lớn), Image Processing (Xử lý ảnh), …
 * Anaconda hiện nay đã có hơn 11 triệu người dùng và hơn 1500 packages khoa học dữ liệu dành cho Windows, Linux và MacOS.
+
+
+# Web
+
+## Django & Flask
+
+### Video
+
+Create a web application with python + Django + PostgreSQL
+
+Django for Beginners - Build Web Application With Python!
+
+Lynda - Up and Running with Python and Django
+
+
+### Book
+
+Django Web Development with Python (2016).pdf  
+Django - Web Development with Python
