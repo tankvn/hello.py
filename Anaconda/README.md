@@ -17,6 +17,12 @@ Anaconda là nền tảng mã nguồn mở về Khoa học dữ liệu trên Pyt
 * Anaconda hiện nay đã có hơn 11 triệu người dùng và hơn 1500 packages khoa học dữ liệu dành cho Windows, Linux và MacOS.
 
 
+Conda is a package, dependency, and environment management tool for Anaconda Python, which is widely used in the scientific community, especially on the Windows platform where the installation of binary extensions can be difficult. 
+
+Conda là một công cụ quản lý gói (package), phụ thuộc (dependency) và môi trường (environment) cho Anaconda Python, được sử dụng rộng rãi trong cộng đồng khoa học, đặc biệt là trên nền tảng Windows nơi việc cài đặt các phần mở rộng nhị phân có thể khó khăn.
+
+Anaconda là nền tảng mã nguồn mở, công cụ quản lý gói (package), phụ thuộc (dependency) và môi trường (environment) về Khoa học dữ liệu trên Python thông dụng nhất hiện nay.
+
 # Python Web
 
 ## Django & Flask
@@ -41,7 +47,7 @@ Udemy - Build a Python REST API with the Django Rest Framework
 Build a User Authentication Web App With Python and Django
 
 Udemy - Web Development with Bootstrap, Python and Django  
-Web Development with Bootstrap, Python & Django
+        Web Development with Bootstrap, Python & Django
 
 Python and Django Full Stack Web Developer Bootcamp
 
@@ -54,9 +60,9 @@ Fullstack Flask and Python Bootcamp With Real Life Projects
 ### Coming soon
 
 Udemy - Build OLX Clone With Python & Django
-
 Build a Crypto Currency News Site With Python and Django
-
 Building Movies Site With Python & Django – IMDB Clone
-
 Python Webprogramming Environment for Windows (Python,Django,MySQL etc)
+
+Udemy- Learn Python Django From Scratch 2013
+
