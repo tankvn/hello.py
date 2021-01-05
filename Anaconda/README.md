@@ -57,6 +57,10 @@ Udemy- Python eCommerce Build a Django eCommerce Web Application
 Fullstack Flask and Python Bootcamp With Real Life Projects
 
 
+Python REST APIs with Flask, Docker, MongoDB, and AWS DevOps
+Fullstack Flask and Python Bootcamp With Real Life Projects
+Udemy - Fullstack Flask and Python Bootcamp With Real Life Proje
+
 ### Coming soon
 
 Udemy - Build OLX Clone With Python & Django
