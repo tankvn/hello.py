@@ -8,6 +8,7 @@ def video_downloader(video_url):
     my_video = YouTube(video_url, on_progress_callback=on_progress)
     # downloading the video in high resolution
     my_video.streams.get_highest_resolution().download()
+    # my_video.streams.filter(progressive=True, file_extension='mp4').get_highest_resolution().download(output_path="videos")
     # return the video title
     return my_video.title
 
@@ -15,9 +16,8 @@ def video_downloader(video_url):
     Running the code inside the try/except block
 """
 try:
-    # getting the url from the user
-    # youtube_link = input('Enter the YouTube link:')
-    youtube_link = input('https://www.youtube.com/watch?v=Xf7c3vHkNOM')
+    # getting the url from the user, 'https://www.youtube.com/watch?v=Xf7c3vHkNOM'
+    youtube_link = input('Enter the YouTube link:')
     print(f'Downloading your Video, please wait.......')
     # passing the url to the function
     video = video_downloader(youtube_link)
